@@ -1,5 +1,5 @@
 # Computer-Vision
-The height.ipynb file is for calculating the real world height of targeted object using in image numpy module.
+The height.ipynb file is for calculating the real world height of targeted object in image using numpy module.
 In this problem, the reference height taken was 1.85.
 The input coordinates are given using Junit.
 
